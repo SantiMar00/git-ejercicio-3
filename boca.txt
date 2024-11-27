@@ -1,3 +1,7 @@
 Santi: esto es boca
 Santi: los grandes no descienden
+<<<<<<< HEAD
 Santi: prueba y  prueba
+=======
+Gian: rey de copas
+>>>>>>> 2d3d0446193778e54c668b313b6fa1b63cbeccc1
